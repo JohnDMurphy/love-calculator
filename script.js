@@ -1,8 +1,9 @@
 const loveButton = document.querySelector('#loveBTN');
 
-const loveChance = Math.floor(Math.random() * 100 + 1);
+
 
 const letsFindLove = () => {
+	const loveChance = Math.floor(Math.random() * 100 + 1);
 	const nameOne = prompt('Who`s love life should we predict?');
 	const nameTwo = prompt(
 		`Who do we want to check ${nameOne}'s Chance of love with?`
