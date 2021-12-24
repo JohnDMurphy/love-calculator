@@ -1,4 +1,5 @@
-# love-calculator
+# Love Calculator
+
 A simple love calculator made to test the chance of true love.
 
 ## acknowledgement
